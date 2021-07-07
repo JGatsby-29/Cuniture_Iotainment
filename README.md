@@ -1,7 +1,7 @@
  # Cuniture - 포스트 코로나 시대의 케렌시아
 
 ## &#127914; 팀 소개
-안녕하세요. 저희는 **IoT**를 **Entertainment**처럼 즐기자는 의미의 **IoTainmnet**입니다!
+안녕하세요. 저희는 **IoT**를 **Entertainment**처럼 즐기자는 의미의 **IoTainmnet**입니다.
    
 ### &#128106; 팀원
 **박민기** PM    
