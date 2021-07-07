@@ -1,4 +1,4 @@
-## 설계 및 코딩
+## 프로그램 설계
 
 ![설계 1](https://user-images.githubusercontent.com/75825682/124733559-451ef800-df4f-11eb-9887-d73cff723ef5.png)
 
