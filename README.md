@@ -4,10 +4,10 @@
 안녕하세요. 저희는 **IoT**를 **Entertainment**처럼 즐기자는 의미의 **IoTainmnet**입니다!
    
 ### &#128106; 팀원
-**박민기** PM                            
-**유영학** HW                      
-**유정연** SW                   
-**홍민희** HW
+**박민기** PM    
+**유정연** SW Development  
+**유영학** HW Development                           
+**홍민희** HW Development
       
 ## &#128187; 프로젝트 소개
 **Cuniture**는 "Cube"와 "Furniture"의 합성어로 가구를 이용해 큐브 형태의 방을 만들어내는 아이디어입니다.   
