@@ -10,7 +10,7 @@
 > 홍민희                     
 
 ## &#128194; 목차
-  + [브레인 스토밍](https://github.com/JGatsby-29/CapstoneDesign_IoT/tree/main/%EB%B8%8C%EB%A0%88%EC%9D%B8%EC%8A%A4%ED%86%A0%EB%B0%8D)
+  + [브레인 스토밍](https://github.com/JGatsby-29/Cuniture_Iotainment/tree/main/01.%20%EB%B8%8C%EB%A0%88%EC%9D%B8%EC%8A%A4%ED%86%A0%EB%B0%8D)
   + [계획 수립](https://github.com/JGatsby-29/Cuniture_Iotainment/tree/main/02.%20%EA%B3%84%ED%9A%8D%EC%88%98%EB%A6%BD)
   + [시장조사 및 분석](https://github.com/JGatsby-29/Cuniture_Iotainment/tree/main/03.%20%EC%8B%9C%EC%9E%A5%EC%A1%B0%EC%82%AC%20%EB%B0%8F%20%EB%B6%84%EC%84%9D)
   + [중간 발표](https://github.com/JGatsby-29/Cuniture_Iotainment/tree/main/04.%20%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C)
