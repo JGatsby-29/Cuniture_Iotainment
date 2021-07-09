@@ -8,7 +8,7 @@
 ![설계 2](https://user-images.githubusercontent.com/75825682/124733701-68e23e00-df4f-11eb-8b6a-6f71f73b7c9d.png)
 
 두 기기 간에 데이터 통신을 하기 위해서는 프로토콜이 필요
- 굉장히 적은 데이터로도 통신할 수 있어 사물인터넷에 최적화된 MQTT 프로토콜을 사용
+굉장히 적은 데이터로도 통신할 수 있어 사물인터넷에 최적화된 MQTT 프로토콜을 사용
 (해당 플랫폼으로써 adafruit를 선택)
 
 ![설계 3](https://user-images.githubusercontent.com/75825682/124733716-6bdd2e80-df4f-11eb-90b1-4c0f5d2d0f9e.png)
