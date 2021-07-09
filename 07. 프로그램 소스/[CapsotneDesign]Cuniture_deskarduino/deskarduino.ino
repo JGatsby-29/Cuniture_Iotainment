@@ -24,7 +24,7 @@ void setup() {
   pinMode(D2, OUTPUT);
   pinMode(D3, OUTPUT);
 
-  servo_d.attach(D5); // 침대 서보
+  servo_d.attach(D5); // 책상 서보
   
   pinMode(D6, OUTPUT);
   pinMode(D7, INPUT);
@@ -54,7 +54,6 @@ void setup() {
 
 void loop() {
   io.run();
-  // ********여기부터
   ///// 어플 ## 블루투스 이용 했을 때
   if(Serial.available())
   {
@@ -130,7 +129,6 @@ void loop() {
       digitalWrite(D3, LOW);
     }
   }
-  // *******여기까지는 없어도 됨
 }
 
 void handleMessage(AdafruitIO_Data *data) {
