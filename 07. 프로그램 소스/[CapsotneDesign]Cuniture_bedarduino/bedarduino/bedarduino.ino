@@ -18,7 +18,9 @@ AdafruitIO_Feed *counter = io.feed("control");
 // trigPin_b // D6
 // echoPin_b // D7
 
-SoftwareSerial BTSerial(D9, D10); // 블루투스 Tx, Rx // D9, D10
+// Tx, Rx // D9, D10
+
+SoftwareSerial BTSerial(D9, D10); // 블루투스
 
 
 void setup() {
